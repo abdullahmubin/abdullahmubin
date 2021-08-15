@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, React js, C#, SQL Server, NoSQL**
 
-- 📫 How to reach me **amubin19 AT gmail DOT com**
+- 📫 How to reach me **amubin19@gmail.com** & **+8801764675540**
 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/abdullah-al-mubin/)
 
