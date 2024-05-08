@@ -4,6 +4,7 @@
 - 🔭 I’m currently working at [Codemen solution Inc](http://codemen.com/)
 
 - 📝 I sometimes write articles on [Dev.to](https://dev.to/abdullahmubin)
+- 📝 Like to solve problem on [leet code](https://leetcode.com/majorwolf)
 
 - 💬 Ask me about **JavaScript, React js, C#, SQL Server, NoSQL**
 
