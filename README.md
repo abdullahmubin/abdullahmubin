@@ -57,7 +57,7 @@ Full-stack engineer with 8+ years building event-driven, microservice-based web 
 ## 🚀 Major Technical Expertise
 
 **Languages, Frameworks & Tools:**  
-`React.js` `Redux` `Next.js` `Angular 4/6` `Node.js` `C#` `.NET` `MongoDB` `MSSQL` `HTML5` `CSS3` `jQuery` `Bootstrap` `Tailwind CSS` `Redis` `Cloudflare` `Dokploy` `Netlify` `Jest` `JIRA` `Agile` `Scrum` `React Testing Library` `Figma` `Microservices` `Event-Driven Architecture` `RabbitMQ` `OAuth 2.0` `Bitbucket` `Github` `Docker` `Kubernetes` `AI-assisted workflows`
+`React.js` `Redux` `Next.js` `Angular 4/6` `Node.js` `C#` `.NET` `MongoDB` `MSSQL` `jQuery` `Tailwind CSS` `Redis` `Cloudflare` `Dokploy` `Netlify` `Jest` `JIRA` `Agile` `Scrum` `React Testing Library` `Figma` `Microservices` `Event-Driven Architecture` `RabbitMQ` `OAuth 2.0` `Bitbucket` `Github` `Docker` `Kubernetes` `AI-assisted workflows`
 
 ---
 
